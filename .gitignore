@@ -1,0 +1,25 @@
+# ---- Secrets ----
+.env
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env.*
+!.env.example
+
+# ---- Virtual environments ----
+venv/
+.venv/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Node / Chrome extension noise ----
+node_modules/
+
+# ---- Editor ----
+.vscode/
+.idea/

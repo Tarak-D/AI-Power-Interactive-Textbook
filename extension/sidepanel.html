@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Textbook of Tomorrow</title>
+  <link rel="stylesheet" href="sidepanel.css" />
+</head>
+
+<body>
+  <div class="app">
+    <!-- Top Bar -->
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo" aria-hidden="true">
+          <span class="logo-dot"></span>
+          <span class="logo-dot"></span>
+          <span class="logo-dot"></span>
+        </div>
+        <div class="brand-text">
+          <div class="brand-title">Textbook of Tomorrow</div>
+          <div class="brand-subtitle">Highlight → click an action</div>
+        </div>
+      </div>
+
+      <button id="btnRefresh" class="icon-btn" title="Refresh selection" aria-label="Refresh selection">
+        ⟳
+      </button>
+    </header>
+
+    <!-- Selection Card -->
+    <section class="card selection-card">
+      <div class="card-head">
+        <div>
+          <div class="card-title">Selected Text</div>
+          <div id="selectionMeta" class="card-meta">No selection yet</div>
+        </div>
+
+        <div class="card-actions">
+          <button id="btnClear" class="ghost-btn" title="Clear selection">Clear</button>
+        </div>
+      </div>
+
+      <div id="selectionBox" class="selection-box is-empty">
+        <div class="empty-state">
+          <div class="empty-emoji" aria-hidden="true">🖍️</div>
+          <div class="empty-title">Select text on the page</div>
+          <div class="empty-subtitle">Then come back and choose an action.</div>
+        </div>
+
+        <pre id="selectionText" class="selection-text" hidden></pre>
+      </div>
+    </section>
+
+    <!-- Action Buttons -->
+    <section class="actions">
+      <button id="btnExplain" class="action-btn primary">
+        <span class="action-icon" aria-hidden="true">✨</span>
+        <span class="action-label">Explain</span>
+        <span class="action-hint">Student-friendly</span>
+      </button>
+
+      <button id="btnSummarize" class="action-btn">
+        <span class="action-icon" aria-hidden="true">🧾</span>
+        <span class="action-label">Summarize</span>
+        <span class="action-hint">Max 5 bullets</span>
+      </button>
+
+      <button id="btnQuiz" class="action-btn">
+        <span class="action-icon" aria-hidden="true">🧠</span>
+        <span class="action-label">Quiz (3 MCQs)</span>
+        <span class="action-hint">With answers</span>
+      </button>
+    </section>
+
+    <!-- Output -->
+    <section class="card output-card">
+      <div class="card-head">
+        <div>
+          <div class="card-title">AI Output</div>
+          <div id="statusLine" class="card-meta">Ready</div>
+        </div>
+
+        <div class="card-actions">
+          <button id="btnCopy" class="ghost-btn" disabled>Copy</button>
+        </div>
+      </div>
+
+      <div id="outputBox" class="output-box">
+        <div id="skeleton" class="skeleton" hidden>
+          <div class="sk-line w-90"></div>
+          <div class="sk-line w-75"></div>
+          <div class="sk-line w-60"></div>
+          <div class="sk-line w-85"></div>
+        </div>
+
+        <div id="outputEmpty" class="output-empty">
+          <div class="empty-title">No output yet</div>
+          <div class="empty-subtitle">Choose an action above.</div>
+        </div>
+
+        <pre id="outputText" class="output-text" hidden></pre>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-left">
+        <span class="pill">MVP</span>
+        <span class="muted">Local backend: </span><span class="mono">http://localhost:8000</span>
+      </div>
+      <a class="footer-link" href="#" id="btnOpenHealth">Health</a>
+    </footer>
+  </div>
+
+  <script src="sidepanel.js"></script>
+</body>
+</html>
