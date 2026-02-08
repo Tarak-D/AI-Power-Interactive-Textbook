@@ -479,7 +479,7 @@ We welcome contributions from developers, educators, and sustainability advocate
 1. **Found a bug?** [Open an issue]()
 2. **Have an idea?** [Start a discussion]()
 3. **Like the project?** Star the repo and share with friends
-4. **Need help?** Reach out via GitHub () or LinkedIn ()
+4. **Need help?** Reach out via GitHub (https://github.com/Tarak-D) or LinkedIn (https://www.linkedin.com/in/tarak-d-019392351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
