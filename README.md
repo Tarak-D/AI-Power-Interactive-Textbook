@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/github/repo-size/Tarak-D/AI-Power-Interactive-Textbook?color=orange"/>
   <img src="https://img.shields.io/github/stars/Tarak-D/AI-Power-Interactive-Textbook"/>
-  <img src="https://img.shields.io/github/license/Tarak-D/AI-Power-Interactive-Textbook?color=green"/>
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen"/>
   <img src="https://img.shields.io/badge/Green%20Skills-Enabled-success"/>
 </p>
