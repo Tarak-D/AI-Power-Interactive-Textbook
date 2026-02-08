@@ -465,10 +465,10 @@ We welcome contributions from developers, educators, and sustainability advocate
 
 <p align="center">
   <a href="https://github.com/KING-OF-FLAME](https://github.com/Tarak-D)">
-    <img src="https://img.shields.io/badge/GitHub-KING--OF--FLAME-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Tarak--D-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/tarak-d-019392351/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Raj-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarak%20D-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
