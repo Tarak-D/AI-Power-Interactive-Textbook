@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size//textbook-of-tomorrow?style=flat-square&color=orange" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/Tarak-D/textbook-of-tomorrow?style=flat-square&color=orange" alt="Repo Size">
   <img src="https://img.shields.io/github/stars/KING-OF-FLAME/textbook-of-tomorrow?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License">
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source">
