@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/Tarak-D/textbook-of-tomorrow?style=flat-square&color=orange" alt="Repo Size">
-  <img src="https://github.com/Tarak-D/AI-Power-Interactive-Textbook/stargazers" alt="Stars">
-  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source">
-  <img src="https://img.shields.io/badge/Green_Skills-Enabled-brightgreen?style=flat-square" alt="Green Skills">
+  <img src="https://img.shields.io/github/repo-size/Tarak-D/AI-Power-Interactive-Textbook?color=orange"/>
+  <img src="https://img.shields.io/github/stars/Tarak-D/AI-Power-Interactive-Textbook"/>
+  <img src="https://img.shields.io/github/license/Tarak-D/AI-Power-Interactive-Textbook?color=green"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen"/>
+  <img src="https://img.shields.io/badge/Green%20Skills-Enabled-success"/>
 </p>
 
 ---
