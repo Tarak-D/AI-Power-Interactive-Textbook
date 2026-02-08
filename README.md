@@ -460,19 +460,15 @@ We welcome contributions from developers, educators, and sustainability advocate
 ## Author
 
 <p align="center">
-  <b>Yash Raj</b><br>
-  <i>Open-Source Developer| AI Systems Builder | Designing Multi-Agent AI, APIs & Automation | Applied AI</i>
+  <b>Tarak D</b><br>
 </p>
 
 <p align="center">
-  <a href="https://github.com/KING-OF-FLAME">
+  <a href="https://github.com/KING-OF-FLAME](https://github.com/Tarak-D)">
     <img src="https://img.shields.io/badge/GitHub-KING--OF--FLAME-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/yash-developer/">
+  <a href="https://www.linkedin.com/in/tarak-d-019392351/">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Raj-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://instagram.com/yash.developer">
-    <img src="https://img.shields.io/badge/Instagram-@yash.developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
