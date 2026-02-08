@@ -447,11 +447,13 @@ We welcome contributions from developers, educators, and sustainability advocate
 
 ## Project Stats
 
+## 📊 Project Stats
+
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/KING-OF-FLAME/textbook-of-tomorrow?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/forks/KING-OF-FLAME/textbook-of-tomorrow?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/issues/KING-OF-FLAME/textbook-of-tomorrow?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/last-commit/KING-OF-FLAME/textbook-of-tomorrow?style=flat-square" alt="Last Commit">
+  <img src="https://img.shields.io/github/contributors/Tarak-D/AI-Power-Interactive-Textbook?color=orange"/>
+  <img src="https://img.shields.io/github/forks/Tarak-D/AI-Power-Interactive-Textbook?color=blue"/>
+  <img src="https://img.shields.io/github/issues/Tarak-D/AI-Power-Interactive-Textbook?color=brightgreen"/>
+  <img src="https://img.shields.io/github/last-commit/Tarak-D/AI-Power-Interactive-Textbook?color=success"/>
 </p>
 
 ---
