@@ -1,4 +1,4 @@
-# Textbook of Tomorrow
+# AI-Power-Interactive- Textbook : Textbook of Tomorrow
 
 ### *Turn static textbooks & LMS content into interactive, sustainable learning experiences.*
 
